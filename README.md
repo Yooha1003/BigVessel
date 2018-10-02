@@ -11,6 +11,6 @@ Brain overlaid Big Arteries
 
 --------------------------------------------------------------------------------------------
 
-Combination of four arteries
+Combination of arteries of four subjects
 
 <img src="https://github.com/Yooha1003/BigVessel/blob/master/f2.png" height="300" style="max-width:100%;">
